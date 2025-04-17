@@ -1,14 +1,13 @@
-# 🎮 OK Win Game - Login, Register, and Download Guide
+# 🎮 OK Win Game - Login & Register
 
-Welcome to **OK Win Game**, your ultimate destination for thrilling online gaming experiences! Whether you're a new user or a returning player, this guide will assist you with login, registration, app download, and more.
+Welcome to **OK Win Game**, your ultimate destination for thrilling online gaming experiences! Whether you're a new user or a returning player, this guide will assist you with login, registration and more.
 
 ---
 
 ## 🔗 Quick Links
 
-### 👉 [OK Win Game - Login](https://okwingames.com/)
-### 👉 [OK Win Game - Register](https://okwingames.com/)
-### 👉 [OK Win Game - Download](https://okwingames.com/)
+### 👉 [OK Win Login](https://gamelogin.in/ok-win/)
+### 👉 [OK Win Register](https://gamelogin.in/ok-win/)
 
 ---
 
@@ -16,7 +15,7 @@ Welcome to **OK Win Game**, your ultimate destination for thrilling online gamin
 
 Use the referral code below during registration to receive a bonus:
 
-**Referral Code:** `2565110594220`  
+**Referral Code:** `846612564037`  
 *Get an instant ₹500 bonus upon registration.*
 
 ---
@@ -36,7 +35,7 @@ Use the referral code below during registration to receive a bonus:
 
 ## 🚪 How to Log In
 
-1. Visit the official OK Win website: [Login Page](https://okwingames.com/)
+1. Visit the official OK Win website: [Login Page](https://gamelogin.in/ok-win/)
 2. Enter your **registered mobile number**.
 3. Input your **password**.
 4. Complete the **CAPTCHA** (if available).
@@ -48,10 +47,10 @@ Use the referral code below during registration to receive a bonus:
 
 Follow these steps to create your OK Win account:
 
-1. Go to the [Register Page](https://okwingames.com/)
+1. Go to the [Register Page](https://gamelogin.in/ok-win/)
 2. Enter your **mobile number**.
 3. Set a **strong password** and confirm it.
-4. Enter the **referral code**: `2565110594220`
+4. Enter the **referral code**: `846612564037`
 5. Tap **"Register"** to complete the signup.
 
 ---
@@ -67,7 +66,7 @@ There are two ways to download the OK Win app:
 4. Download and install the app.
 
 ### 📥 Method 2: Direct Download
-1. Go to the [OK Win homepage](https://okwingames.com/)
+1. Go to the [OK Win homepage](https://gamelogin.in/ok-win/)
 2. Tap the **"Download App"** button at the bottom.
 3. Enable **unknown source installations** in settings.
 4. Install the APK file.
